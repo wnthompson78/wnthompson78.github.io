@@ -845,6 +845,7 @@ pre code {
 .col-lg-10,
 .col-lg-11,
 .col-lg-12 {
+  border-radius: 25px;
   position: relative;
   min-height: 1px;
   padding-right: 15px;
